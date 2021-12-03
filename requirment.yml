@@ -1,0 +1,7 @@
+- name: haproxy
+  src: ftp://192.168.56.115/pub/haproxy.tar.gz
+
+
+- name: phpinfo
+  src: ftp://192.168.56.115/pub/php.tar.gz
+
